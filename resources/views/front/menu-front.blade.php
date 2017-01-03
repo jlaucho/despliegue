@@ -8,7 +8,8 @@
                         <span class="icon-bar"></span>
                     </button>
                    <div class="navbar-brand">
-						<a href="index.html"><h1>Day</h1></a>
+						<!--<a href="index.html"><h1>Day</h1></a>-->
+                        <a href=""><img src="{{ asset('inicio-front/img/logo.jpg') }}"></a>
 					</div>
                 </div>				
                 <div class="navbar-collapse collapse">							
