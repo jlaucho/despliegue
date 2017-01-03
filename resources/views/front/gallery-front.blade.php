@@ -6,7 +6,7 @@
 		<div class="container">		
 			<div class="col-md-4">
 				<figure class="effect-marley">
-					<img src="{{ asset('inicio-front/img/8.jpg') }}" alt="" class="img-responsive"/>
+					<img src="{{ asset('inicio-front/img/trabajo-oro-1.jpg') }}" alt="" class="img-responsive"/>
 					<figcaption>
 						<h4>sweet marley</h4>
 						<p>Marley tried to convince her but she was not interested.</p>				
@@ -15,7 +15,7 @@
 			</div>
 			<div class="col-md-4">
 				<figure class="effect-marley">
-					<img src="{{ asset('inicio-front/img/9.jpg') }}" alt="" class="img-responsive"/>
+					<img src="{{ asset('inicio-front/img/trabajo-oro-2.jpg') }}" alt="" class="img-responsive"/>
 					<figcaption>
 						<h4>sweet marley</h4>
 						<p>Marley tried to convince her but she was not interested.</p>				
@@ -24,7 +24,7 @@
 			</div>
 			<div class="col-md-4">
 				<figure class="effect-marley">
-					<img src="{{ asset('inicio-front/img/10.jpg') }}" alt="" class="img-responsive"/>
+					<img src="{{ asset('inicio-front/img/trabajo-oro-3.jpg') }}" alt="" class="img-responsive"/>
 					<figcaption>
 						<h4>sweet marley</h4>
 						<p>Marley tried to convince her but she was not interested.</p>				
@@ -36,7 +36,7 @@
 		<div class="container">
 			<div class="col-md-4">
 				<figure class="effect-marley">
-					<img src="{{ asset('inicio-front/img/11.jpg') }}" alt="" class="img-responsive"/>
+					<img src="{{ asset('inicio-front/img/trabajo-diamante-1.jpg') }}" alt="" class="img-responsive"/>
 					<figcaption>
 						<h4>sweet marley</h4>
 						<p>Marley tried to convince her but she was not interested.</p>				
@@ -45,7 +45,7 @@
 			</div>
 			<div class="col-md-4">
 				<figure class="effect-marley">
-					<img src="{{ asset('inicio-front/img/12.jpg') }}" alt="" class="img-responsive"/>
+					<img src="{{ asset('inicio-front/img/trabajo-diamante-2.jpg') }}" alt="" class="img-responsive"/>
 					<figcaption>
 						<h4>sweet marley</h4>
 						<p>Marley tried to convince her but she was not interested.</p>				
@@ -54,7 +54,7 @@
 			</div>
 			<div class="col-md-4">
 				<figure class="effect-marley">
-					<img src="{{ asset('inicio-front/img/13.jpg') }}" alt="" class="img-responsive"/>
+					<img src="{{ asset('inicio-front/img/trabajo-diamante-3.JPG') }}" alt="" class="img-responsive"/>
 					<figcaption>
 						<h4>sweet marley</h4>
 						<p>Marley tried to convince her but she was not interested.</p>				

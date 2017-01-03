@@ -34,7 +34,7 @@
 				    </div>
 			
 				    <div class="item">
-						<img src="{{ asset('inicio-front/img/slide.jpg') }}" class="img-responsive" alt=""> 
+						<img src="{{ asset('inicio-front/img/trabajo-minero.jpg') }}" class="img-responsive" alt=""> 
 						<div class="carousel-caption">
 							<div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="1.0s">								
 								<h2>Fully Responsive</h2>
@@ -57,7 +57,7 @@
 						</div>
 				    </div> 
 				    <div class="item">
-						<img src="{{ asset('inicio-front/img/slide.jpg') }}" class="img-responsive" alt=""> 
+						<img src="{{ asset('inicio-front/img/camion-minero.jpg') }}" class="img-responsive" alt=""> 
 						<div class="carousel-caption">
 							<div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">								
 								<h2>Modern Design</h2>
